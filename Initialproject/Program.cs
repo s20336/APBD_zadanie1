@@ -5,23 +5,26 @@ public class Program
     public static void Main(string[] args)
     {
         int[] numbers = { 1, 2, 3, 4, 5 };
-        double average = CalculateAverage(numbers);
-        Console.WriteLine("Średnia: " + average);
+        int max = FindMaxValue(numbers);
+        Console.WriteLine("Max wartość: " + max);
     }
 
-    public static double CalculateAverage(int[] array)
+    public static int FindMaxValue(int[] array)
     {
         if (array == null || array.Length == 0)
         {
             throw new ArgumentException("Tablica nie może być pusta");
         }
 
-        int sum = 0;
-        foreach (int num in array)
+        int max = array[0];
+        for (int i = 1; i < array.Length; i++)
         {
-            sum += num;
+            if (array[i] > max)
+            {
+                max = array[i];
+            }
         }
 
-        return (double)sum / array.Length;
+        return max;
     }
 }
