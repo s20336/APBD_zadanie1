@@ -1,0 +1,14 @@
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/bin/Debug/net8.0/Initialproject
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/bin/Debug/net8.0/Initialproject.deps.json
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/bin/Debug/net8.0/Initialproject.runtimeconfig.json
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/bin/Debug/net8.0/Initialproject.dll
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/bin/Debug/net8.0/Initialproject.pdb
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/Initialproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/Initialproject.AssemblyInfoInputs.cache
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/Initialproject.AssemblyInfo.cs
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/Initialproject.csproj.CoreCompileInputs.cache
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/Initialproject.dll
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/refint/Initialproject.dll
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/Initialproject.pdb
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/Initialproject.genruntimeconfig.cache
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/ref/Initialproject.dll
