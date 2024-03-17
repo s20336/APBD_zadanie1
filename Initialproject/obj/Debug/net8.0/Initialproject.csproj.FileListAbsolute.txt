@@ -12,3 +12,4 @@
 /Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/Initialproject.pdb
 /Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/Initialproject.genruntimeconfig.cache
 /Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/ref/Initialproject.dll
+/Users/kuba/RiderProjects/APBD_zadanie1/Initialproject/obj/Debug/net8.0/Initialproject.sourcelink.json
